@@ -4,8 +4,7 @@
   "autoCreateDB": true,
   "BOTNAME": "HAMZA BABU 😉❤️",
   "PREFIX": "#",
-  "ADMINBOT": ["
-61558005913380"],
+  "ADMINBOT": ["61558005913380"],
   "NDH": ["61558005913380"],
   "adminOnly": false,
   "ndhOnly": false,
